@@ -9,7 +9,7 @@ Linmin Wang, Qianqian Wang, Xiaochuan Wang, Mingxia Liu
 ## Dataset
 We used the following dataset:
 
--COVID-QU-Ex dataset (Can be downloaded [here](https://www.kaggle.com/datasets/anasmohammedtahir/covidqu)
+-COVID-QU-Ex dataset (Can be downloaded [here](https://www.kaggle.com/datasets/anasmohammedtahir/covidqu))
 
 ## Dependencies
 **SMDH** needs the following dependencies:
