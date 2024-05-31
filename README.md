@@ -1,8 +1,8 @@
 ## SMDH
-The source code of the **S**egmentation-**E**nhanced **D**eep  **M**ulti-**S**cale **H**ashing (TCDH) framework.
+The source code of the **S**egmentation-Enhanced **M**ulti-**S**cale **D**eep **H**ashing (SMDH) framework.
 
 ## Paper
-**Segmentation-Enhanced Deep Multi-Scale Hashing for Chest X-Ray Image Retrieval**
+**Segmentation-Enhanced Multi-Scale Deep Hashing for Chest X-Ray Image Retrieval**
 
 Linmin Wang, Qianqian Wang, Xiaochuan Wang, Mingxia Liu
 
