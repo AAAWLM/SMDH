@@ -9,8 +9,7 @@ Linmin Wang, Qianqian Wang, Xiaochuan Wang, Mingxia Liu
 ## Dataset
 We used the following dataset:
 
--COVID-QU-Ex dataset (Can be downloaded [here](https://www.kaggle.com/datasets/andyczhao/covidx-cxr2?select=competition_test))
-Note that this dataset is not static but constantly changes due to the new COVID images being added. The set of training, Validation, and test images data we used can be found in Train.txt, Val.txt and test.txt, respectively.
+-COVID-QU-Ex dataset (Can be downloaded [here]([https://www.kaggle.com/datasets/andyczhao/covidx-cxr2?select=competition_test](https://www.kaggle.com/datasets/anasmohammedtahir/covidqu)))
 
 ## Dependencies
 **SMDH** needs the following dependencies:
